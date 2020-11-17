@@ -1,0 +1,18 @@
+<body>
+
+	<h1> <strong>Bucket List</strong> </h1>
+	<ol>
+	<li>Klap de jonko</li>
+	<li>Threesome</li>
+	<li>Tattoo</li>
+	<li>Go to the netherlands</li>
+	<li>Blackout drunk</li>
+	<li>XTC</li>
+	<li>Mountain Biking</li>
+	<li>Do unspeakable thing to a celebrity... or get drunk with them</li>
+	<li>Live with mates</li>
+	<li>Go abroad with mates</li>
+	<li>Live abroad</li>
+	
+
+	</body>
